@@ -8,5 +8,5 @@ instale as dependências usando o comando yarn
 
 Como iniciar o servidor local
 
-A API vai criar a base de dados automáticamente
+A API vai criar a base de dados automáticamente com o nome 'database'.
 inicie o servidor com o comando yarn start
